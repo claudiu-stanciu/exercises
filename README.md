@@ -1,0 +1,5 @@
+# Exercises
+
+- algos
+- classical problems
+
